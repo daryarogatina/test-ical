@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Usps Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:New Year's Day Holiday
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230102
+LOCATION:United States
+DESCRIPTION:Discover and subscribe to popular calendars at https://calendarlabs.com/ical-calendar\n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:652e1a793162b1697520249@calendarlabs.com
+DTSTAMP:20231017T052409Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Luther King Jr. Birthday
+DTSTART;VALUE=DATE:20230116
+DTEND;VALUE=DATE:20230116
+LOCATION:United States
+DESCRIPTION:Discover and subscribe to popular calendars at https://calendarlabs.com/ical-calendar\n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:652e1a79316c81697520249@calendarlabs.com
+DTSTAMP:20231017T052409Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
