@@ -1,1 +1,85 @@
-
+BEGIN:VCALENDAR
+VERSION;VALUE=TEXT:2.0
+PRODID;VALUE=TEXT:-//WebCal.Guru//NONSGML WebCal.Guru 2024-05-23//EN
+CALSCALE;VALUE=TEXT:GREGORIAN
+METHOD;VALUE=TEXT:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:FALSE
+NAME;VALUE=TEXT:Test Days
+X-WR-CALNAME;VALUE=TEXT:Test Days
+SOURCE;VALUE=URI:https://www.webcal.guru/en-US/download_calendar?calendar_
+ instance_id=10
+URL;VALUE=URI:https://www.webcal.guru/en-US/event_list?calendar_id=culture
+ _awareness
+UID;VALUE=TEXT:af561131-0010-fc02-4fd1-dd63a6e4888e
+X-WR-RELCALID;VALUE=TEXT:af561131-0010-fc02-4fd1-dd63a6e4888e
+DESCRIPTION;VALUE=TEXT;LANGUAGE=en:Days intended to raise awareness of hea
+ lth\, social or environmental issues.
+X-WR-CALDESC;VALUE=TEXT;LANGUAGE=en:Days intended to raise awareness of he
+ alth\, social or environmental issues.
+X-WR-TIMEZONE;VALUE=TEXT:Etc/UTC
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL;VALUE=DURATION:P1W
+X-OWNER;VALUE=TEXT;CN=WebCal.Guru:mailto:guru@webcal.guru
+COLOR;VALUE=TEXT:#96589e
+X-APPLE-CALENDAR-COLOR;VALUE=TEXT:#96589e
+X-OUTLOOK-COLOR;VALUE=TEXT:#96589e
+X-FUNAMBOL-COLOR;VALUE=TEXT:#96589e
+X-LOTUS-CHARSET;VALUE=TEXT:UTF-8
+BEGIN:VEVENT
+UID;VALUE=TEXT:79855550-5ce9-e7ce-e91d-d93bbbef2b1c
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20240603
+DTEND;VALUE=DATE:20240603
+SUMMARY;VALUE=TEXT;LANGUAGE=en:TEST event from today
+DESCRIPTION;VALUE=TEXT;LANGUAGE=en:TEST event today !! the Earth Day is obs
+ erved next on Monday\, April 22nd\, 2024. It has been observed annually on
+  April 22nd since 2003.\n\nAdditional information\nhttps://www.checkiday.c
+ om/488751d3b0b0187d8f11b0cd9a500aff/chemists-celebrate-the-earth-day\n\nTh
+ is calendar is provided by WebCal.Guru https://www.webcal.guru/.\n\nCreate
+ d\nThu\, 23 May 2024 13:31:51 +0000\n\nCalendar ID\nculture_awareness\n\nS
+ ubscription ID\n-
+CLASS;VALUE=TEXT:PUBLIC
+URL;VALUE=URI:https://www.checkiday.com/488751d3b0b0187d8f11b0cd9a500aff/c
+ hemists-celebrate-the-earth-day
+CONTACT;VALUE=TEXT:guru@webcal.guru
+TRANSP;VALUE=TEXT:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;VALUE=TEXT:DISABLED
+STATUS;VALUE=TEXT:CONFIRMED
+PRIORITY;VALUE=INTEGER:5
+SEQUENCE;VALUE=INTEGER:1604
+CREATED;VALUE=DATE-TIME:20240523T133151Z
+LAST-MODIFIED;VALUE=DATE-TIME:20240523T133151Z
+DTSTAMP;VALUE=DATE-TIME:20240523T133151Z
+END:VEVENT
+BEGIN:VEVENT
+UID;VALUE=TEXT:ba62b999-76cb-450e-7f82-950b4bb15a45
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20240604
+DTEND;VALUE=DATE:20240604
+SUMMARY;VALUE=TEXT;LANGUAGE=en:📺 TEST Television Day
+DESCRIPTION;VALUE=TEXT;LANGUAGE=en:TEST purpose of the day is to recognize 
+ the increasing impact television has on decision-making by bringing world 
+ attention to conflicts and threats to peace and security and its potential
+  role in sharpening the focus on other major issues\, including economic a
+ nd social issues.\n\nAdditional information\nhttps://www.un.org/en/observa
+ nces/world-television-day\n\nThis calendar is provided by WebCal.Guru http
+ s://www.webcal.guru/.\n\nCreated\nThu\, 23 May 2024 13:31:51 +0000\n\nCale
+ ndar ID\nculture_awareness\n\nSubscription ID\n-
+CLASS;VALUE=TEXT:PUBLIC
+URL;VALUE=URI:https://www.un.org/en/observances/world-television-day
+CONTACT;VALUE=TEXT:guru@webcal.guru
+TRANSP;VALUE=TEXT:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR;VALUE=TEXT:DISABLED
+STATUS;VALUE=TEXT:CONFIRMED
+PRIORITY;VALUE=INTEGER:5
+SEQUENCE;VALUE=INTEGER:1604
+CREATED;VALUE=DATE-TIME:20240523T133151Z
+LAST-MODIFIED;VALUE=DATE-TIME:20240523T133151Z
+DTSTAMP;VALUE=DATE-TIME:20240523T133151Z
+END:VEVENT
+LAST-MODIFIED;VALUE=DATE-TIME:20240523T133151Z
+END:VCALENDAR
