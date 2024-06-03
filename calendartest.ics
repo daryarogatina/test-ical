@@ -5,7 +5,15 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTSTART;VALUE=DATE:20240603
 DTEND;VALUE=DATE:20240604
 SUMMARY;VALUE=TEXT;LANGUAGE=en: Test event today
-DESCRIPTION;VALUE=TEXT;LANGUAGE=en:Test event today!!!!\n-
+DESCRIPTION;VALUE=TEXT;LANGUAGE=en:TEST event today!!! is observed in several c
+ ountries on various dates of the year. As of 19 January 1996\, the World F
+ ederation of Engineering Organizations (WFEO) has designated March 4th as 
+ 'World Engineering Day for a Sustainable World'.\n\nAdditional information
+ \nhttps://en.wikipedia.org/wiki/Engineer%27s_Day\n\nWikipedia content re-r
+ eleased under CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n
+ \nThis calendar is provided by WebCal.Guru https://www.webcal.guru/.\n\nCr
+ eated\nThu\, 23 May 2024 13:31:51 +0000\n\nCalendar ID\nculture_awareness\
+ n\nSubscription ID\n-
 CLASS;VALUE=TEXT:PUBLIC
 URL;VALUE=URI:https://ithillel.ua/ru
 CONTACT;VALUE=TEXT:guru@webcal.guru
@@ -25,10 +33,18 @@ X-FUNAMBOL-ALLDAY:1
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 DTSTART;VALUE=DATE:20240604
 DTEND;VALUE=DATE:20240605
-SUMMARY;VALUE=TEXT;LANGUAGE=en:TEST event tomorrow!!!!
-DESCRIPTION;VALUE=TEXT;LANGUAGE=en:TEST event tomorrow!!!!\n-
+SUMMARY;VALUE=TEXT;LANGUAGE=en: TEST event tomorrow
+DESCRIPTION;VALUE=TEXT;LANGUAGE=en:TEST event tomorrow!!! is observed in several c
+ ountries on various dates of the year. As of 19 January 1996\, the World F
+ ederation of Engineering Organizations (WFEO) has designated March 4th as 
+ 'World Engineering Day for a Sustainable World'.\n\nAdditional information
+ \nhttps://en.wikipedia.org/wiki/Engineer%27s_Day\n\nWikipedia content re-r
+ eleased under CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n
+ \nThis calendar is provided by WebCal.Guru https://www.webcal.guru/.\n\nCr
+ eated\nThu\, 23 May 2024 13:31:51 +0000\n\nCalendar ID\nculture_awareness\
+ n\nSubscription ID\n-
 CLASS;VALUE=TEXT:PUBLIC
-URL;VALUE=URI:https://ithillel.ua
+URL;VALUE=URI:https://en.wikipedia.org/wiki/Engineer%27s_Day
 CONTACT;VALUE=TEXT:guru@webcal.guru
 TRANSP;VALUE=TEXT:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
