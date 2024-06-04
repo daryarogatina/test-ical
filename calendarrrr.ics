@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Hillel IT School
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:WuV5I_jE9-kML2YOBJdf8
+SUMMARY:Як бізнес-аналітики та продакт-менеджери можуть ефективно використо
+	вувати ChatGPT
+DTSTAMP:20240604T181942Z
+DTSTART:20240626T161500Z
+DESCRIPTION: \n____________________________________________________________
+	____________________ \nMicrosoft Teams meeting \nJoin on your computer\, m
+	obile app or room device \nClick here to  | Meeting options <https://teams
+	.microsoft.com/meetingOptions/?organizerId=45e3a77a-9136-44cf-aaf0-8d4762d
+	d3886&tenantId=8a68f26d-b270-4ef3-ae78-bd695a909445&threadId=19_meeting_ZD
+	fdbffshdfhSDGKKllDHDLIFDHdhdfkhidkhfdfDLFHDFHf@thread.v2&messageId=0&langu
+	age=en-US>  \n____________________________________________________________
+	____________________ \n \n
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:j34B5unTetyJ2JQ0zZSs5
+SUMMARY:Intermediate Speaking Club
+DTSTAMP:20240604T181942Z
+DTSTART:20240605T160000Z
+DESCRIPTION:Link: < https://blog.ithillel.ua/events/inter-speaking-club-202
+	4-06-05>
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:OPylJ9QtMYLFCws1GhNGW
+SUMMARY:Pre-Intermediate Speaking Club
+DTSTAMP:20240604T181942Z
+DTSTART:20240605T160000Z
+DESCRIPTION:Link: < https://blog.ithillel.ua/events/pre-inter-speaking-club
+	-2024-06-05>
+DURATION:PT2H
+END:VEVENT
+END:VCALENDAR
