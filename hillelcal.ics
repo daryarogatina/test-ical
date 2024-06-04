@@ -6,27 +6,28 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hillel IT School
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:J3wsfoS2cX-Xz5rZtfsIh
-SUMMARY:Маркетинг в «не сезон». Як підготуватись
-DTSTAMP:20240604T144206Z
-DTSTART:20240605T150000Z
-URL:https://blog.ithillel.ua/events/marketynh-v-ne-sezon-iak-pidhotuvatys
+UID:VMaEvqiMuHtYGdeUc7ax0
+SUMMARY:Як бізнес-аналітики та продакт-менеджери можуть ефективно використо
+        вувати ChatGPT
+DTSTAMP:20240604T150041Z
+DTSTART:20240626T161500Z
+URL:https://blog.ithillel.ua/events/effective-use-of-gpt-4
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:HAOEtByWd_XsbndnwOJT-
-SUMMARY:Як обрати напрям в IT для дитини
-DTSTAMP:20240604T144206Z
-DTSTART:20240606T160000Z
-URL:https://blog.ithillel.ua/events/how-to-choose-course-for-kids
+UID:X1_vzfZIOv9tHw1fSS4Qm
+SUMMARY:Intermediate Speaking Club
+DTSTAMP:20240604T150041Z
+DTSTART:20240605T160000Z
+URL:https://blog.ithillel.ua/events/inter-speaking-club-2024-06-05
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:dC9okmq35zlAx3sZofnxA
-SUMMARY:Мистецтво роботи з даними: Вступ до SQL
-DTSTAMP:20240604T144206Z
-DTSTART:20240607T160000Z
-URL:https://blog.ithillel.ua/events/introduction-to-sql
+UID:kt3PQV_065-qKtTPhhTFQ
+SUMMARY:Pre-Intermediate Speaking Club
+DTSTAMP:20240604T150041Z
+DTSTART:20240605T160000Z
+URL:https://blog.ithillel.ua/events/pre-inter-speaking-club-2024-06-05
 DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
