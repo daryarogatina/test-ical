@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Hillel IT School
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:J3wsfoS2cX-Xz5rZtfsIh
+SUMMARY:Маркетинг в «не сезон». Як підготуватись
+DTSTAMP:20240604T144206Z
+DTSTART:20240529T150000Z
+URL:https://blog.ithillel.ua/events/marketynh-v-ne-sezon-iak-pidhotuvatys
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:HAOEtByWd_XsbndnwOJT-
+SUMMARY:Як обрати напрям в IT для дитини
+DTSTAMP:20240604T144206Z
+DTSTART:20240531T160000Z
+URL:https://blog.ithillel.ua/events/how-to-choose-course-for-kids
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:dC9okmq35zlAx3sZofnxA
+SUMMARY:Мистецтво роботи з даними: Вступ до SQL
+DTSTAMP:20240604T144206Z
+DTSTART:20240528T160000Z
+URL:https://blog.ithillel.ua/events/introduction-to-sql
+DURATION:PT2H
+END:VEVENT
+END:VCALENDAR
