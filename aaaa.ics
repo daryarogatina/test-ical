@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Hillel IT School
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:itwtAXpwIl1u7QXu2-wyK
+SUMMARY:Як бізнес-аналітики та продакт-менеджери можуть ефективно використо
+        вувати ChatGPT
+DTSTAMP:20240604T172638Z
+DTSTART:20240626T161500Z
+DESCRIPTION: \n____________________________________________________________
+	____________________ \nMicrosoft Teams meeting \nJoin on your computer\, m
+	obile app or room device \nClick here to join the meeting <https://teams.m
+	icrosoft.com/l/meetup-join/19%3ameeting_FCADJKFHSKGAtYRk4OB00BjQ5LTBkNjktM
+	gwODFiMWQ4NWIx%00000000.v2/0?context=gsdgsdggsdagasdg-dsgvdafsfb-sdgsavdag
+  sdgsdgsdgsvdgfvdsgsdvfsgbdfbdfcbdfnbdgfndfndfndfndfndnbfgbdfbdfndfndfndfnd
+  fdffgdf>  \nMeeting ID: 325 625 008 547 \nPasscode: jXDo2D \nDownload Team
+	<https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join onn
+	the web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \nLearn
+	n More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams
+	.microsoft.com/meetingOptions/?dffgdsfhadfhadfhadfbsfhnsbgnfdfsnbsgfnsfgnf
+	dfbadfhadfbsgnjrth45hbwru35c5w4vu3cdfgwdfgdfgdfgeergerg3353g5c3c35hc3gc35h
+	Q0MTFjZTMtYTk4OC00MjQ5sdgsdgsdgcggwODFiMWQ4NWIx@thread.v2&messageId=0&lang
+	age=en-US>  \n____________________________________________________________
+	____________________ \n \n
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:8lTsXt3Twj78xblYA2Gpe
+SUMMARY:Intermediate Speaking Club
+DTSTAMP:20240604T172638Z
+DTSTART:20240605T160000Z
+DESCRIPTION:\nLink: <https://blog.ithillel.ua/events/inter-speaking-club-20
+        24-06-05>\n
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:-iVIxERa2xeBSfzcfVRDF
+SUMMARY:Pre-Intermediate Speaking Club
+DTSTAMP:20240604T172638Z
+DTSTART:20240605T160000Z
+DESCRIPTION:\nLink: <https://blog.ithillel.ua/events/pre-inter-speaking-clu
+        b-2024-06-05>\n
+DURATION:PT2H
+END:VEVENT
+END:VCALENDAR
