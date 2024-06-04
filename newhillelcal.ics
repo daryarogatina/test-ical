@@ -1,4 +1,4 @@
-ICS_CALENDAR BEGIN:VCALENDAR
+BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
@@ -6,30 +6,30 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hillel IT School
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:-4RS9K8FhrS0-jZV63wkV
+UID:hJ3b0G4IFxCIUSAI-PLPP
 SUMMARY:Як бізнес-аналітики та продакт-менеджери можуть ефективно використо
         вувати ChatGPT
-DTSTAMP:20240604T155551Z
+DTSTAMP:20240604T161045Z
 DTSTART:20240626T161500Z
-LOCATION:Link: https://blog.ithillel.ua/events/effective-use-of-gpt-4
+DESCRIPTION:link: https://blog.ithillel.ua/events/effective-use-of-gpt-4
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:YrVv-RucMjFW0r8QFbCJi
+UID:TyxKfK-0MCWJUbJGiYsl1
 SUMMARY:Intermediate Speaking Club
-DTSTAMP:20240604T155551Z
+DTSTAMP:20240604T161045Z
 DTSTART:20240605T160000Z
-LOCATION:Link: https://blog.ithillel.ua/events/inter-speaking-club-2024-06-
-        05
+DESCRIPTION:link: https://blog.ithillel.ua/events/inter-speaking-club-2024-
+        06-05
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:y4YLU9xOP5lp6Ku9dwQgL
+UID:OCEDRYH0-xA254OJ5fliR
 SUMMARY:Pre-Intermediate Speaking Club
-DTSTAMP:20240604T155551Z
+DTSTAMP:20240604T161045Z
 DTSTART:20240605T160000Z
-LOCATION:Link: https://blog.ithillel.ua/events/pre-inter-speaking-club-2024
-        -06-05
+DESCRIPTION:link: https://blog.ithillel.ua/events/pre-inter-speaking-club-2
+        024-06-05
 DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
